@@ -1,1 +1,1 @@
-# Sudoku-Solver-using-A-DFS-and-Backtracking-algo
+# Sudoku-Solver-using-A* and DFS
